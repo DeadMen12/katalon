@@ -1,5 +1,5 @@
 1. buatkan script katalon & object repository untuk mengisi inquiry form pada detail promosi 
 2. buatkan script katalon & object repository untuk klik button next & back pada carousel dan klik detail card pada review produk dengan konten berikut (https://pre.auto2000.co.id/review-produk/regre02agustus--duplikat-1)
 3. buatkan script katalon & object repository untuk klik detail mobil baru avanza dengan cara klik tab kategori mpv --> hover --> avanza 
-4. clone repository ini pada vscode
+4. clone repository ini pada vscode dengan url berikut (https://github.com/DeadMen12/katalon.git)
 5. setelah selesai semua script & object buatkan folder & test case object repository dengan nama "NCP" , "Promosi" , "Review Produk" lalu push ke repository ini 
