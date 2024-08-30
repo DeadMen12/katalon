@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Checkbox Announcement</name>
+   <tag></tag>
+   <elementGuidId>7a704e30-199e-4961-b80c-081ed8b7226d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div[2]/div/div/div[2]/div/div[3]/div/label/span/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>span > .bg-white</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>7a3b0864-1aaa-404a-80ee-a5acb11c6d14</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bg-white !w-5 !h-5 overflow-hidden cursor-pointer</value>
+      <webElementGuid>101eb055-f0e9-4c21-ad71-c514e0dc3806</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[2]/div[@class=&quot;flex justify-end md:justify-end items-center bg-cover bg-center global-bg&quot;]/div[@class=&quot;rounded-lg&quot;]/div[@class=&quot;fixed inset-0 bg-gray-800 bg-opacity-50 flex items-center justify-center z-50 p-4 sm:p-6 lg:p-8&quot;]/div[@class=&quot;bg-white rounded-lg shadow-lg w-full max-w-2xl  max-h-[95vh] overflow-y-auto&quot;]/div[@class=&quot;sticky bottom-0 border-t pb-6 p-0 border-[#DEDEDE] bg-white mt-5 px-6 sm:px-8 lg:px-6&quot;]/div[@class=&quot;flex gap-2 justify-end pt-4&quot;]/label[1]/span[1]/div[@class=&quot;bg-white !w-5 !h-5 overflow-hidden cursor-pointer&quot;]</value>
+      <webElementGuid>bce424de-d5b8-4abc-9a13-79a728df6c95</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div[2]/div/div/div[2]/div/div[3]/div/label/span/div</value>
+      <webElementGuid>6db5f76b-c93f-4215-a39e-ab127c83ce35</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Announcement'])[1]/following::div[6]</value>
+      <webElementGuid>298def53-c5d1-45ca-bb9b-60875fc609ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contact Us'])[1]/following::div[9]</value>
+      <webElementGuid>9b9bcb33-6332-47c4-ad37-05874a4b1dda</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/div</value>
+      <webElementGuid>0d32b3bf-4a6a-4c55-95c8-6227a03660d1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
